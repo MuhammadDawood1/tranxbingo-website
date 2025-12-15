@@ -223,6 +223,7 @@ export default function Home() {
               <a href="#features" className="hover:text-cyan-400 transition-colors">Features</a>
               <a href="#pricing" className="hover:text-cyan-400 transition-colors">Pricing</a>
               <a href="#contact" className="hover:text-cyan-400 transition-colors">Support</a>
+              <p className="text-sm">Email: support@traxbingo.com</p>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-white/5 text-center text-gray-500 text-sm">
